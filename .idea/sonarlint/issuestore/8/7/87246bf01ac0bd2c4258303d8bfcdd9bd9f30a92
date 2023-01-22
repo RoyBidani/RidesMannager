@@ -1,0 +1,19 @@
+
+}
+java:S1192"bDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/rides" 4 times.(ùÐßœüÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "root1234" 4 times.(ùÐßœüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üíâ‰øÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(èû±öúÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ÿ¬‹ú
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¨È“ìúÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÀŠ¿£ýÿÿÿÿ8º€…‰˜0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—®ÍÙýÿÿÿÿ
+B
+java:S1068-"'Remove this unused "url" private field.(¥†ÚŸøÿÿÿÿ
